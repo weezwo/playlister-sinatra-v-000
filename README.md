@@ -1,4 +1,4 @@
-# Sinatra Playlister
+I Rod# Sinatra Playlister
 
 ##Objectives
 
